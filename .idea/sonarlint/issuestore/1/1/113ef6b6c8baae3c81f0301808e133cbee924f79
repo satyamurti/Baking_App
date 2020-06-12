@@ -1,0 +1,9 @@
+
+K
+java:S1068".Remove this unused "myrecipies" private field.(éµí¼8´ÔŒ€ª.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8°ª“€ª.
+s
+java:S1450 "VRemove the "apiCAll" field and declare it as a local variable in the relevant methods.(—¾ÂÞ8óâŽô©.
+„
+java:S3252,"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(´‡žš8°ª“€ª.

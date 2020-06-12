@@ -1,0 +1,18 @@
+
+r
+java:S14500"VRemove the "context" field and declare it as a local variable in the relevant methods.(êİç8¨ú½û©.
+J	java:S108z")Either remove or fill this block of code.(î»ˆŸøÿÿÿÿ8¥±í€ª.
+{
+java:S1450)"^Remove the "listADapterstep" field and declare it as a local variable in the relevant methods.(éŸ¨•8¯šå€ª.
+†
+java:S1450/"dRemove the "stepItemClickListener" field and declare it as a local variable in the relevant methods.(ôšùÿÿÿÿÿÿ8†ıãı©.
+n
+java:S1450%"QRemove the "r1" field and declare it as a local variable in the relevant methods.(éô´ã8ıÈç€ª.
+r
+java:S1450'"URemove the "tbHost" field and declare it as a local variable in the relevant methods.(òÙ¡Ó8“Éë€ª.
+
+java:S1450*"dRemove the "listAdapterIngretants" field and declare it as a local variable in the relevant methods.(Ş¾ËÈ8²µæ€ª.
+n
+java:S1450&"QRemove the "r2" field and declare it as a local variable in the relevant methods.(ÁàÑ–8ıÈç€ª.
+G
+java:S10680"+Remove this unused "context" private field.(êİç8¨ú½û©.

@@ -1,0 +1,8 @@
+
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ƒª™8õÎÔ€ª.
+„
+java:S3252"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(³–ƒÛ8ıöÁ€ª.
+[
+java:S1854-">Remove this useless assignment to local variable "recipeName".(´Îè8¡Ê­ı©.
+L
+java:S1481-"/Remove this unused "recipeName" local variable.(´Îè8¡Ê­ı©.
